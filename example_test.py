@@ -52,7 +52,7 @@ def search_and_click(ua,sleep_time,top5,proxy,proxies,sleep_after):
     
         #driver.get('https://www.dailymotion.com/video/x7yfnh3')
     try:  
-        driver.get('https://www.dailymotion.com/video/x7ymzna')
+        driver.get('https://dai.ly/x7ymznr')
         #time.sleep(3)
         #mm = driver.find_element_by_class_name('top-matter')
         #mm = driver.find_element_by_class_name('md')
